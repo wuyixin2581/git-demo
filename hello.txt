@@ -1,5 +1,4 @@
-hello world!at guigu!
-hello world!at guigu!
+welcome to git!
 hello world!at guigu!
 hello world!at guigu!
 hello world!at guigu!
